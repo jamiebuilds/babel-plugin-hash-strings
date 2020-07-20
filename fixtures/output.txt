@@ -1,0 +1,5 @@
+let a = "5953c";
+let b = "dont hash me";
+let c = "@dont hash me";
+let d = `@@dont hash me`;
+let e = " @@dont hash me";

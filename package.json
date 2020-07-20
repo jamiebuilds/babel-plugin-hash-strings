@@ -1,0 +1,40 @@
+{
+	"name": "babel-plugin-hash-strings",
+	"version": "0.0.0",
+	"description": "Replace all instances of \"@@strings like this\" with hashes.",
+	"main": "index.js",
+	"author": "Jamie Kyle <me@thejameskyle.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jamiebuilds/babel-plugin-hash-strings.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jamiebuilds/babel-plugin-hash-strings/issues"
+	},
+	"homepage": "https://github.com/jamiebuilds/babel-plugin-hash-strings#readme",
+	"scripts": {
+		"test": "ava"
+	},
+	"keywords": [
+		"babel",
+		"plugin",
+		"transform",
+		"ast",
+		"compile",
+		"string",
+		"hash",
+		"md5",
+		"sha",
+		"bundle",
+		"size",
+		"minify",
+		"compress",
+		"production",
+		"prod"
+	],
+	"devDependencies": {
+		"@babel/core": "^7.9.0",
+		"ava": "^3.7.0"
+	}
+}
